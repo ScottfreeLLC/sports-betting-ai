@@ -1,7 +1,11 @@
-# sports-betting-ai
-Sports Betting with AI and Machine Learning Maven Course
+# Sports Betting with AI and Machine Learning
+
+Welcome to the Maven course: Sports Betting with AI and Machine Learning.
 
 ### 1. Sports Betting Deep Dive
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrconway/sports-betting-ai/blob/main/notebooks/betting-concepts.ipynb)
+
 
 ### 2. Generative AI and ML Deep Dive
 
